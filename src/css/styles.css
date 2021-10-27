@@ -314,6 +314,17 @@ img{
   margin-bottom: var(--mb-2);
 }
 
+
+
+.tipo__img{
+height: 200px;
+width: 280px;
+}
+
+.tipo__img2{
+  height: 200px;
+  width:400px;
+}
 .resumen__img{
   width: 280px;
   justify-self: center;
